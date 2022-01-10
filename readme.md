@@ -1,0 +1,1 @@
+Olá, estou iniciando minhas atividades em Git.
