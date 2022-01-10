@@ -1,1 +1,2 @@
-Olá, estou iniciando minhas atividades em Git.
+Olá, estou iniciando minhas atividades em Git. 
+Ainda fazendo testes...
